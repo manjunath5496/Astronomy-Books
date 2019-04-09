@@ -45,8 +45,11 @@
 15. A Textbook of General Astronomy </br>
                 <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>              
                                 
-                
-                
+16. An Introduction to Astronomy </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast16.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>              
+                                               
+17. Textbook on Spherical Astronomy </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                   
                 
                 
                 
