@@ -60,7 +60,7 @@
 20. Back To The Astronomy Cafe </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                     
                 
-21. Cambridge Illustrated Dictionary of Astronomy </br>
+21. Binocular Astronomy </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
 22. Handbook of Practical Astronomy </br>
