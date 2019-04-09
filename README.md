@@ -20,4 +20,9 @@
                 
 7. The Complete Idiot's Guide to Astronomy</br>
                 <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast7.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
-                
+
+8. Using SI Units in Astronomy</br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
+
+9. Patrick Moore's Practical Astronomy Series</br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast9.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
