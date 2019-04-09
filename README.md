@@ -38,9 +38,13 @@
                               
 13. Glencoe Astronomy </br>
                 <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast13.rar" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>              
-                
-                
-                
+                               
+14. Elements of Astrophysics</br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast14.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+                              
+15. A Textbook of General Astronomy </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast15.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>              
+                                
                 
                 
                 
