@@ -54,9 +54,26 @@
 18. Handy Astronomy Answer Book </br>
                 <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast18.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
                 
+19. Cambridge Illustrated Dictionary of Astronomy </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast19.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
+20. Back To The Astronomy Cafe </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast20.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                     
                 
+21. Cambridge Illustrated Dictionary of Astronomy </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast21.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
                 
+22. Handbook of Practical Astronomy </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast22.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                
+23. Astronomy: A Physical Perspective </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast23.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                
+24. Cleomedes' Lectures on Astronomy: A Translation of The Heavens </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast24.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                 
+                
+25. Theory and Problems of Astronomy </br>
+                <a href="https://github.com/manjunath5496/Math-Books/blob/master/ast25.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
                 
                 
                 
