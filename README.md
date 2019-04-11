@@ -165,8 +165,14 @@
  55. Very Low-Mass Stars and Brown Dwarfs </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast55.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>              
              
+ 56. The Cosmic Connection </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast56.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>             
              
-             
+ 57. Astronomy with an Opera-glass </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast57.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                
+ 58. The Demon-Haunted World </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast58.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
              
              
              
