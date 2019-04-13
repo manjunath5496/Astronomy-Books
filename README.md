@@ -174,5 +174,11 @@
  58. The Demon-Haunted World </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast58.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
              
+ 59. Physics of Comets </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast59.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br> 
+                
+ 60. The Birth and Death of the Sun </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
              
+                          
              
