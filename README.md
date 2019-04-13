@@ -180,5 +180,8 @@
  60. The Birth and Death of the Sun </br>
                 <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast60.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
              
-                          
+ 61. The Life and Death of Stars </br>
+                <a href="https://github.com/manjunath5496/Astronomy-Books/blob/master/ast61.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>               
+             
+                                               
              
